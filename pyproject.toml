@@ -1,0 +1,18 @@
+[project]
+name = "new-api-linux-do-oauth-token"
+version = "0.0.0"
+description = "A helper library to authenticate new-api with linux.do oauth and retrieve session"
+authors = [
+    { name = "Sn0wo2" }
+]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "linux-do-connect-token (==0.0.3)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
