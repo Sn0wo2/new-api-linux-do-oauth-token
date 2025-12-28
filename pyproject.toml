@@ -12,6 +12,11 @@ dependencies = [
     "linux-do-connect-token (==0.0.3)"
 ]
 
+[tool.poetry]
+packages = [
+    { include = "linux_do_oauth.py" },
+    { include = "__init__.py" }
+]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
