@@ -8,7 +8,7 @@ A helper library to authenticate new-api with linux.do oauth and retrieve sessio
 [![Release](https://github.com/Sn0wo2/new-api-linux-do-oauth-token/actions/workflows/release.yml/badge.svg)](https://github.com/Sn0wo2/new-api-linux-do-oauth-token/actions/workflows/release.yml)
 [![CodeQL Advanced](https://github.com/Sn0wo2/new-api-linux-do-oauth-token/actions/workflows/codeql.yml/badge.svg)](https://github.com/Sn0wo2/new-api-linux-do-oauth-token/actions/workflows/codeql.yml)
 
-[![GitHub release](https://img.shields.io/github/v/release/Sn0wo2/linux-do-connect-token?color=blue)](https://github.com/Sn0wo2/linux-do-connect-token/releases)
+[![GitHub release](https://img.shields.io/github/v/release/Sn0wo2/new-api-linux-do-oauth-token?color=blue)](https://github.com/Sn0wo2/new-api-linux-do-oauth-token/releases)
 
 ---
 
